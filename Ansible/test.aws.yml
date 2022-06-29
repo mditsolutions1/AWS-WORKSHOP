@@ -16,6 +16,3 @@
         content: "{{keyout.key.private_key}}"
         dest: ./sample-key.pem
       when: keyout.changed
-      action:
-      s
-
