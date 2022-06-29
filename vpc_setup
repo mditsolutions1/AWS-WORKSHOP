@@ -15,4 +15,4 @@ PubSub6Cidr: 172.20.6.0/24
 region: "ap-south-1"
 
 # Zone Names 
-zone
+zone: "ap-south-1"
