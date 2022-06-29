@@ -1,0 +1,18 @@
+vpc_namr: "vprofile-vpc"
+
+#VPC Range
+vpcCidr: '172.20.0.0/16'
+
+# Subnets Range
+PubSub1Cidr: 172.20.1.0/24
+PubSub2Cidr: 172.20.2.0/24
+PubSub3Cidr: 172.20.3.0/24
+PubSub4Cidr: 172.20.4.0/24
+PubSub5Cidr: 172.20.5.0/24
+PubSub6Cidr: 172.20.6.0/24
+
+# Region Name
+region: "ap-south-1"
+
+# Zone Names 
+zone
