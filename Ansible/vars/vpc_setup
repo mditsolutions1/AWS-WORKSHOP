@@ -1,6 +1,6 @@
-vpc_name: "vprofile-vpc"
+vpc_name: "Vprofile-vpc"
 
-#VPC Range
+# VPC Range
 vpcCidr: '172.20.0.0/16'
 
 # Subnets Range
