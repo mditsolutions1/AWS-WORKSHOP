@@ -20,3 +20,7 @@ zone2: ap-south-1b
 zone3: ap-south-1c
 
 state: present
+
+# Bastion Vars
+bastion_ami: ami-08df646e18b182346
+MYIP: 203.192.204.81/32
