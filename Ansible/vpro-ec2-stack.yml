@@ -38,7 +38,7 @@
 
     - name: Create Security Group for Vprofile Stack
       ec2_group:
-        name: vproStack-SG
+        name: vproStack-sg
         description: Allow port 22 from everywhere and all port within SG
         vpc_id: "{{vpcid}}"
         region: "{{region}}"
