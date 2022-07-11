@@ -1,0 +1,12 @@
+region: ap-south-1
+vpcid: vpc-0f8cfca9e615c6d96
+pubsub1id: subnet-03559b6c94ddcb60c
+pubsub2id: subnet-0d6020a7bbd2473c5
+pubsub3id: subnet-02677af6bca3d6bd1
+privsub1id: subnet-047527bb05b7ac188
+privsub2id: subnet-0c84722ede67de26d
+privsub3id: subnet-05d502561cd60e1ad
+igwid: igw-0cce3f2ea7d243e10
+pubRTid: rtb-0f687d29a72d72852
+NATGWid: nat-067e388ec1116362c
+privRTid: rtb-00ab825b3c6b8f079
