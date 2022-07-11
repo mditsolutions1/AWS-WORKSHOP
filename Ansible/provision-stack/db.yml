@@ -8,7 +8,7 @@
         name: "{{item}}"
         state: present
         update_cache: yes
-        cache_valid_time: 86400
+        cache_valid_time: 150
       loop:
         - mysql-server
         - mysql-client
