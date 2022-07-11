@@ -33,7 +33,7 @@
         - package
 
     - apt_repository:
-        repo: deb https://dl.bintray.com/rabbitmq/debian bionic main
+        repo: deb [signed-by=/usr/share/keyrings/io.packagecloud.rabbitmq.gpg] https://packagecloud.io/rabbitmq/rabbitmq-server/ubuntu/ bionic main
         state: present
       tags:
         - package
