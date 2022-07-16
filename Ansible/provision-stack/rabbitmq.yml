@@ -58,7 +58,7 @@
     - name: Config setup
       copy:
         content: |
-          [{rabbit, [{loopback_users, []}]}].
+          [{rabbit, [{loopback_users, []}]}]
         dest: /etc/rabbitmq/rabbitmq.config
       notify:
         - Restart RMQ
